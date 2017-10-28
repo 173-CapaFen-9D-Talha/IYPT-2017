@@ -4,18 +4,16 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+ 9-D   |   Talha Çelik  | 571
 
-#  (buraya proje başlığını yazınız)
+
+#  Dancing Coin
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Projem IYPT 2018'in 3. konusu olan "Dancing Coin". Yani "Dans Eden Madeni Para". Projemin konusu soğutulmuş bir cam şişenin üstüne koyulan metal paranın hareket etmesi. Bunun için cam şişeyi uzun süre soğutacağım. Ardından üstüne metal para koyup arada boşluk kalmamasına dikkat edeceğim. Sonrasında ise şişeyi elimizle sıkıca tutarak içerideki havanın sıcaklaşmasını sağlayacağım. Böylece içerideki hava genleşmek isteyecek ve madeni paraya baskı yapacak. Baskının etkisiyle madeni para hareket etmeye başlayacak. Projenin adının "Dans Eden Madeni Para" olması da buradan geliyor. Deneyimin amacı bu olayı deney yaparak gözlemlemek ve rapor hazırlamak. 
+
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. Deneyin videosu https://www.youtube.com/watch?v=3TjcbvmjqIA
+ 2. Deneyin yapılışı ve ilgili makale https://explorable.com/magic-jumping-coin-experiment
 
