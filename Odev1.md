@@ -2,7 +2,7 @@
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
  9-D   |   Talha Çelik  | 571
-
+ 9-D   |   Ömer Kılıç   | 610
 
 #  Dancing Coin
 ## Özet
